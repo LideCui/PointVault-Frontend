@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pointvaultfrontend-dev-e37f8-authRole",
+      "UnauthRoleArn": "arn:aws:iam::034362034191:role/amplify-pointvaultfrontend-dev-e37f8-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::034362034191:role/amplify-pointvaultfrontend-dev-e37f8-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-pointvaultfrontend-dev-e37f8-deployment",
+      "UnauthRoleName": "amplify-pointvaultfrontend-dev-e37f8-unauthRole",
+      "StackName": "amplify-pointvaultfrontend-dev-e37f8",
+      "StackId": "arn:aws:cloudformation:us-east-2:034362034191:stack/amplify-pointvaultfrontend-dev-e37f8/ba19db50-9bb4-11ef-b044-069f98bfa171",
+      "AmplifyAppId": "d2ozqxejq9uyab"
+    }
+  }
+}
